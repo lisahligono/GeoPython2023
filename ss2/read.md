@@ -4,9 +4,9 @@
 
 During the Civis BIP Summer School, I was part of the Green Team focused on assessing the efficiency of nature-based solutions in the NAWI area. 
 
-![green_team](https://github.com/lisahligono/GeoPython2023/assets/72496335/b0c34e4b-a3c2-4915-883f-06b6e2616533)
+![green_team](https://github.com/lisahligono/GeoPython2023/assets/72496335/b0c34e4b-a3c2-4915-883f-06b6e2616533){:width="200px"}
 
-![aoi](https://github.com/lisahligono/GeoPython2023/assets/72496335/42f4c689-ffce-4b08-af5c-2ca1214553b6)
+![aoi](https://github.com/lisahligono/GeoPython2023/assets/72496335/42f4c689-ffce-4b08-af5c-2ca1214553b6){:width="300px"}
 
 
 ### Research Question
